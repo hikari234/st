@@ -135,6 +135,18 @@ static const char *colorname[] = {
 
     #87CEFA skylightbule
 
+#F47B7F red
+#A1F0A2 green
+#F0F0A1 yellow
+#87CEFA blue
+#FFADE7 pink
+#55FFFF cyan
+
+
+
+
+
+
 #FFADE7
 
 #A1F0A2 Smith Apple
