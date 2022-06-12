@@ -104,19 +104,19 @@ static const char *colorname[] = {
   [1] = "#F47B7F", // innocent red
   [2] = "#A1F0A2", // Smith Apple
   [3] = "#F0F0A1", // Pale Goldenrod
-  [4] = "#bd93f9", /* purple    */
-  [5] = "#FFADE7", /* magenta */
-  [6] = "#87CEFA", /* blue    */
-  [7] = "#bbbbbb", /* white   */
+  [4] = "#87CEFA", /* blue */
+  [5] = "#FFADE7", /* pink */
+  [6] = "#55FFFF", /* Cyan */
+  [7] = "#bbbbbb", /* white */
 
   /* 8 bright colors */
   [8]  = "#44475a", /* black   */
   [9]  = "#F47B7F", // Innocent Red
   [10] = "#A1F0A2", // Smith Apple
   [11] = "#F0F0A1", // Pale Goldenrod
-  [12] = "#bd93f9", /* purple    */
+  [12] = "#87CEFA", /* blue    */
   [13] = "#FFADE7", /* pink */
-  [14] = "#87CEFA", /* blue    */
+  [14] = "#55FFFF", /* Cyan */
   [15] = "#ffffff", /* white   */
 
   /* special colors */
